@@ -1,43 +1,66 @@
-# Chirpy Starter
+[![Waka time](https://wakatime.com/badge/user/09b9ec51-4790-4f52-a7f3-ae35dcbfc6dc/project/2cc51c41-66b5-4804-b2a4-73b94653d498.svg)](https://wakatime.com/badge/user/09b9ec51-4790-4f52-a7f3-ae35dcbfc6dc/project/2cc51c41-66b5-4804-b2a4-73b94653d498)
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+## Workspace Notes
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
+- GitHub: [jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
+- [Getting Started](https://chirpy.cotes.page/posts/getting-started/)
+- [Writing a New Post](https://chirpy.cotes.page/posts/write-a-new-post/)
+- [Text and Typography](https://chirpy.cotes.page/posts/text-and-typography/#fnref:footnote)
+- [My Note](https://youkoutaku.github.io/posts/Writing/)
+- [Upgrade Guide](https://github.com/cotes2020/jekyll-theme-chirpy/wiki/Upgrade-Guide)
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
-
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
-
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
+### Local Building
+Running
+```cmd
+bundle exec jekyll s
 ```
 
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+Building
+```cmd
+bundle exec jekyll b
+```
 
-## Usage
+### Update
+[Upgrading](https://github.com/cotes2020/jekyll-theme-chirpy/wiki/Upgrade-Guide#upgrading-from-starter)
 
-Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
+The operations mentioned in this section only need to be performed once after cloning your repository locally.
+Adding Upstream
 
-## Contributing
+```
+git remote add chirpy https://github.com/cotes2020/chirpy-starter.git
+```
 
-This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
+Verify the remote was added successfully:
 
-## License
+```
+git remote -v
+```
 
-This work is published under [MIT][mit] License.
+The output should include:
 
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+```
+chirpy  https://github.com/cotes2020/chirpy-starter.git (fetch)
+chirpy  https://github.com/cotes2020/chirpy-starter.git (push)
+```
+
+### Preview
+
+```
+image: https://image.jpg
+```
+
+### Images
+
+```markdown
+![](src/image.png)
+```
+
+### Math
+
+[MathJax](https://www.mathjax.org/)
+
+```markdown
+Remark error:
+$x_{1_2}$
+$x^*$ → $x^\ast$
+```
