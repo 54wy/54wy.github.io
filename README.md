@@ -6,13 +6,9 @@
 
   Theme Supported by [**Chripy**][chripy]
 
-  [![Contributors][contributors-shield]][contributors-url]
-  [![Issues][issues-shield]][issues-url]
-  [![Unlicense License][license-shield]][license-url]
-
   [**Explore More** →][demo]
 
-  [![Snapshot](https://github.com/54wy/54wy.github.io/images/snapshot.jpg)][demo]
+  [![Snapshot](https://raw.githubusercontent.com/54wy/54wy.github.io/refs/heads/main/images/snapshot.jpg)][demo]
 
 </div>
 
