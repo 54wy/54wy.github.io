@@ -1,66 +1,41 @@
-[![Waka time](https://wakatime.com/badge/user/09b9ec51-4790-4f52-a7f3-ae35dcbfc6dc/project/2cc51c41-66b5-4804-b2a4-73b94653d498.svg)](https://wakatime.com/badge/user/09b9ec51-4790-4f52-a7f3-ae35dcbfc6dc/project/2cc51c41-66b5-4804-b2a4-73b94653d498)
+<!-- markdownlint-disable-next-line -->
+<div align="center">
 
-## Workspace Notes
+  <!-- markdownlint-disable-next-line -->
+  # Github Pages on My Profile 
 
-- GitHub: [jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
-- [Getting Started](https://chirpy.cotes.page/posts/getting-started/)
-- [Writing a New Post](https://chirpy.cotes.page/posts/write-a-new-post/)
-- [Text and Typography](https://chirpy.cotes.page/posts/text-and-typography/#fnref:footnote)
-- [My Note](https://youkoutaku.github.io/posts/Writing/)
-- [Upgrade Guide](https://github.com/cotes2020/jekyll-theme-chirpy/wiki/Upgrade-Guide)
+  Theme Supported by [**Chripy**][chripy]
 
-### Local Building
-Running
-```cmd
-bundle exec jekyll s
-```
+  [![Contributors][contributors-shield]][contributors-url]
+  [![Issues][issues-shield]][issues-url]
+  [![Unlicense License][license-shield]][license-url]
 
-Building
-```cmd
-bundle exec jekyll b
-```
+  [**Explore More** →][demo]
 
-### Update
-[Upgrading](https://github.com/cotes2020/jekyll-theme-chirpy/wiki/Upgrade-Guide#upgrading-from-starter)
+  [![Snapshot](https://github.com/54wy/54wy.github.io/images/snapshot.jpg)][demo]
 
-The operations mentioned in this section only need to be performed once after cloning your repository locally.
-Adding Upstream
+</div>
 
-```
-git remote add chirpy https://github.com/cotes2020/chirpy-starter.git
-```
+## Credits
 
-Verify the remote was added successfully:
+### Contributors
 
-```
-git remote -v
-```
+Thanks to [all the contributors][contributors] involved in the development of the project!
 
-The output should include:
+[![all-contributors](https://contrib.rocks/image?repo=cotes2020/jekyll-theme-chirpy&columns=16)][contributors]
+<sub> — Made with [contrib.rocks](https://contrib.rocks)</sub>
 
-```
-chirpy  https://github.com/cotes2020/chirpy-starter.git (fetch)
-chirpy  https://github.com/cotes2020/chirpy-starter.git (push)
-```
+### Third-Party Assets
 
-### Preview
+This project is built on the [Jekyll][jekyllrb] ecosystem and some [great libraries][lib], and is developed using [VS Code][vscode] as well as tools provided by [JetBrains][jetbrains] under a non-commercial open-source software license.
 
-```
-image: https://image.jpg
-```
+The avatar and favicon for the project's website are from [ClipartMAX][clipartmax].
 
-### Images
+## License
 
-```markdown
-![](src/image.png)
-```
+This project is published under [MIT License][license].
 
-### Math
 
-[MathJax](https://www.mathjax.org/)
+[chripy]: https://github.com/cotes2020/chirpy-starter
+[demo]: https://54wy.github.io
 
-```markdown
-Remark error:
-$x_{1_2}$
-$x^*$ → $x^\ast$
-```
