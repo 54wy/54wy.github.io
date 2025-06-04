@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
+icon: fas fa-school
+order: 5
 ---
 
 ## 👋 Hi, I'm Guang-Ze Yang!
