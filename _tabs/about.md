@@ -4,69 +4,43 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-## 👋 Hi, I'm Guang-Ze Yang!
+## ☁️ Hi, I'm 54wy!
 
-Also known as EN: Grayson Young, JP: 楊 広沢 (よう こうたく, You Koutaku), CN: 杨 广泽 (Yang Guang-Ze).
+Also known as EN: Cloudless, CN: 吴 云 (Wu Yun).
 
-- I’m currently a master’s student in Mechanical Systems Engineering at Ibaraki University.
-- I also run a blog — [Young’s Notebook](https://youkoutaku.github.io/) — where I share insights on robotics, control theory, programming, and personal growth.
-- My current focus:
-  - Job hunting (Graduating in March 2026)
-  - learning in MPC, nonlinear programming, and distributed control
+- I’m currently teaching at YYXY School of Zhejiang University of Finance & Economics.
+- The original intention of this website is to help undergraduates better understand the charm of code, and at the same time, share my thoughts on teaching, research and trading.
+- You can always contact me via mail:wuyun2025@zufe.edu
+---
 
 ## Education
-- 2024.04 – 2026.03: Ibaraki University, M.Eng. in Mechanical Systems Engineering
-- 2020.04 – 2024.03: Ibaraki University, B.Eng. in Mechanical Systems Engineering
+- 2008.09 – 2012.06: Institute of Advanced Study, Wuhan University, B.A. in Ecomomics and Mathmatics 
+- 2012.09 – 2015.06: Institute of Advanced Study, Wuhan University, M.A. in Finance
+- 2015.09 - 2023.08: School of Computer Science, Wuhan Univertisy, D.Eng in Software Engineering
+---
+
+## Competition
+- 2010: The First place in the '2010 Citibank Cup Financial and Information Technology Application Competition'(Organized by Citibank) 
+- 2015: The Second place in the team category of the first "Internet +" College Students' Innovation and Entrepreneurship Competition in Hubei Division, and the Fourth place in the team category of the fourth China Innovation and Entrepreneurship Competition Internet and Mobile Internet Industry Finals (Tongxiang, Zhejiang)
+- 2017: The Second place in 'AI Challenger 2017 Virtual Stock Trend Prediction Track'(Co-organized by Innovation Works, Bytedance and Sogou)
+- 2018: The First place in 'FDDC 2018 Financial Algorithm Challenge'(Co-organized by Financial Technology Professional Committee of the Asset Management Association of China, Tonglian Data, E Fund, China Asset Management, and Alibaba Cloud)
+---
 
 ## Research Interests
-- Motion control & path planning
-- Distributed control of multi-robot systems
-- Optimal & robust control
+- AI in Fiance & Fintech, 
+- Quantitative Trading & Discretionary Trading
+- 8 years of real trading experinece
+---
 
 ## Publications
-- **G. -Z. Yang** and Z. -J. Yang, "Distributed Robust Time-Varying Formation Control of Multi-Agent Systems Under Disturbances," 2024 SICE Festival with Annual Conference (SICE FES), Kochi City, Japan, 2024, pp. 1000-1005. [[IEEE Xplore]](https://ieeexplore.ieee.org/document/10805135) [[Code]](https://github.com/youkoutaku/DR-TVFC)
-
+- **Yun Wu**, Liangshun Wu, Hengjin Cai<sup>*</sup>. A Trusted Paradigm of Data Management for Blockchain-Enabled Internet of Vehicles in Smart Cities[J]. ACM Transactions on Sensor Networks,2022.
+- **Yun Wu**, Liangshun Wu, Hengjin Cai<sup>*</sup>. Reinforced Practical Byzantine Fault Tolerance Consensus Protocol for Cyber Physical Systems[J]. Computer Communications, 2023,203:238-247
+- **Yun Wu**, Liangshun Wu, Hengjin Cai<sup>*</sup>. A deep learning approach to secure vehicle to road side unit communications in intelligent transportation system[J]. Computers and Electrical Engineering,2023,105:108542. 
+- **Yun Wu**, Liangshun Wu, Hengjin Cai<sup>*</sup>. Cloud-Edge Data Encryption in the Internet of Vehicles Using Zeckendorf Representation[J]. Journal of Cloud Computing-Advances Systems and Applications, 2023,12:39. 
 ---
 
-## [Coding Activity](https://wakatime.com/@YouKoutaku) (SINCE OCT 14 2024)
-
-<a href="https://wakatime.com/@YouKoutaku">
-    <img align="Youkoutaku's WakaTime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Youkoutaku&theme=radical&hide=Markdown,other,Text&layout=compact&show_icons=true" alt="Youkoutaku's WakaTime stats"/>
-</a>
-
-## ⭐ Skills
-
-💻 [Programming Language](https://wakatime.com/@YouKoutaku)
-
-| MATLAB | Python | C/C++ | HTML5&CSS3 | JavaScript | Java  |
-| :----: | :----: | :---: | :--------: | :--------: | :---: |
-| ★★★★★  | ★★★★★  | ★★★★ |    ★★★★    |    ★★★     |  ★★   |
-
-## 🛠️ Tools
-
-| Simulink |  Git  | ROS1&2 | Docker | SolidWorks | Arduino | LaTex | Markdown |
-| :------: | :---: | :----: | :----: | :--------: | :-----: | :---: | :------: |
-|  ★★★★★   | ★★★★  |  ★★★★  |  ★★★   |   ★★★★★    |  ★★★★★  | ★★★★★ |  ★★★★★   |
-
----
-
-## ❤️ Favorite
-- 😄 Hobby:
-  - 💪 Training or running 2~3 times a week
-  - 🏀 Basketball once a week
-  - 📚 Reading (Biography, History, Philosophy, Time Management ...)
-  - 🎮 Video games(Zelda, Fire Emblem, Monster Hunter, FF7, P5, ...)
-  - 🎧 Music (J-pop, R&B, ...)
-
-## More about me
-- 📱 [My Device](https://youkoutaku.notion.site/bd8f65544ac242c38f88871f73af8c1e?v=a39853e6d8b9473c8156a0df89248054)
-- 🎬 [My Video](https://youkoutaku.notion.site/Video-7bd889568add4d6fb952fe4973c715da?pvs=4)
-- 🎵 [My Music](https://youkoutaku.notion.site/My-Music-d21e63fdf152499283410c2d78ccd674)
-- 🎮 [My Game](https://youkoutaku.notion.site/Game-85453a6f8846423e9964d52239f7064d?pvs=4)
-
----
-## 📬 Contact
-- [Linkedin](https://www.linkedin.com/in/youkoutaku)
-- [知乎](https://www.zhihu.com/people/a-a-47-74-28)
-
----
+## ⭐ Hobby
+- 🎾 Badminton (Kindergarten level)
+- 🪈 Bamboo Flute (Barely able to make it sound like a flute)
+- 📚 Reading (History, Technology, Math...)
+- 🎮 Video games(Chinese Paladin)
