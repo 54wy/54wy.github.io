@@ -23,7 +23,7 @@ Also known as EN: Cloudless, CN: 吴 云 (Wu Yun).
 - 2012.09 – 2015.06: Institute of Advanced Study, Wuhan University, M.A. in Finance
 - 2015.09 - 2023.08: School of Computer Science, Wuhan Univertisy, D.Eng in Software Engineering
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 
 <!-- Competition -->
@@ -33,7 +33,7 @@ Also known as EN: Cloudless, CN: 吴 云 (Wu Yun).
 - 2017: The Second place in 'AI Challenger 2017 Virtual Stock Trend Prediction Track'(Co-organized by Innovation Works, Bytedance and Sogou)
 - 2018: The First place in 'FDDC 2018 Financial Algorithm Challenge'(Co-organized by Financial Technology Professional Committee of the Asset Management Association of China, Tonglian Data, E Fund, China Asset Management, and Alibaba Cloud)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 
 <!-- Research Interests -->
@@ -42,7 +42,7 @@ Also known as EN: Cloudless, CN: 吴 云 (Wu Yun).
 - Quantitative Trading & Discretionary Trading
 - 8 years of real trading experinece
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 
 <!-- Publications -->
@@ -52,7 +52,7 @@ Also known as EN: Cloudless, CN: 吴 云 (Wu Yun).
 - **Yun Wu**, Liangshun Wu, Hengjin Cai<sup>*</sup>. A deep learning approach to secure vehicle to road side unit communications in intelligent transportation system[J]. Computers and Electrical Engineering,2023,105:108542. 
 - **Yun Wu**, Liangshun Wu, Hengjin Cai<sup>*</sup>. Cloud-Edge Data Encryption in the Internet of Vehicles Using Zeckendorf Representation[J]. Journal of Cloud Computing-Advances Systems and Applications, 2023,12:39. 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 
 <!-- Hobby -->
@@ -62,4 +62,4 @@ Also known as EN: Cloudless, CN: 吴 云 (Wu Yun).
 - 📚 Reading (History, Technology, Math...)
 - 🎮 Video games(Chinese Paladin)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
