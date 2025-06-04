@@ -14,7 +14,7 @@ Also known as EN: Cloudless, CN: 吴 云 (Wu Yun).
 
 
 <!-- Education -->
-## Education
+## 🎓 Education
 ***
 - 2008.09 – 2012.06: Institute of Advanced Study, Wuhan University, B.A. in Ecomomics and Mathmatics 
 - 2012.09 – 2015.06: Institute of Advanced Study, Wuhan University, M.A. in Finance
@@ -22,7 +22,7 @@ Also known as EN: Cloudless, CN: 吴 云 (Wu Yun).
 
 
 <!-- Competition -->
-## Competition
+## 🏆 Competition
 ***
 - 2010: The First place in the '2010 Citibank Cup Financial and Information Technology Application Competition'(Organized by Citibank) 
 - 2015: The Second place in the team category of the first "Internet +" College Students' Innovation and Entrepreneurship Competition in Hubei Division, and the Fourth place in the team category of the fourth China Innovation and Entrepreneurship Competition Internet and Mobile Internet Industry Finals (Tongxiang, Zhejiang)
@@ -31,7 +31,7 @@ Also known as EN: Cloudless, CN: 吴 云 (Wu Yun).
 
 
 <!-- Research Interests -->
-## Research Interests
+## 🚀 Research Interests
 ***
 - AI in Fiance & Fintech 
 - Quantitative Trading & Discretionary Trading
@@ -39,7 +39,7 @@ Also known as EN: Cloudless, CN: 吴 云 (Wu Yun).
 
 
 <!-- Publications -->
-## Publications
+## 🏫 Publications
 ***
 - **Yun Wu**, Liangshun Wu, Hengjin Cai<sup>*</sup>. A Trusted Paradigm of Data Management for Blockchain-Enabled Internet of Vehicles in Smart Cities[J]. ACM Transactions on Sensor Networks,2022.
 - **Yun Wu**, Liangshun Wu, Hengjin Cai<sup>*</sup>. Reinforced Practical Byzantine Fault Tolerance Consensus Protocol for Cyber Physical Systems[J]. Computer Communications, 2023,203:238-247
