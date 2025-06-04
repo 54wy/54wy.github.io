@@ -18,16 +18,16 @@ Also known as EN: Cloudless, CN: 吴 云 (Wu Yun).
 ***
 - 2008.09 – 2012.06: Institute of Advanced Study, Wuhan University, B.A. in Ecomomics and Mathmatics 
 - 2012.09 – 2015.06: Institute of Advanced Study, Wuhan University, M.A. in Finance
-- 2015.09 - 2023.08: School of Computer Science, Wuhan Univertisy, D.Eng in Software Engineering
+- 2016.09 - 2023.08: School of Computer Science, Wuhan Univertisy, D.Eng in Software Engineering
 
 
 <!-- Competition -->
 ## 🏆 Competition
 ***
-- 2010: The First place in the '2010 Citibank Cup Financial and Information Technology Application Competition'(Organized by Citibank) 
-- 2015: The Second place in the team category of the first "Internet +" College Students' Innovation and Entrepreneurship Competition in Hubei Division, and the Fourth place in the team category of the fourth China Innovation and Entrepreneurship Competition Internet and Mobile Internet Industry Finals (Tongxiang, Zhejiang)
-- 2017: The Second place in 'AI Challenger 2017 Virtual Stock Trend Prediction Track'(Co-organized by Innovation Works, Bytedance and Sogou)
-- 2018: The First place in 'FDDC 2018 Financial Algorithm Challenge'(Co-organized by Financial Technology Professional Committee of the Asset Management Association of China, Tonglian Data, E Fund, China Asset Management, and Alibaba Cloud)
+- 2010: *The First place* in the '2010 Citibank Cup Financial and Information Technology Application Competition'(Organized by Citibank) 
+- 2015: *The Second place* in the team category of the first "Internet +" College Students' Innovation and Entrepreneurship Competition in Hubei Division, and the Fourth place in the team category of the fourth China Innovation and Entrepreneurship Competition Internet and Mobile Internet Industry Finals (Tongxiang, Zhejiang)
+- 2017: *The Second place* in 'AI Challenger 2017 Virtual Stock Trend Prediction Track'(Co-organized by Innovation Works, Bytedance and Sogou)
+- 2018: *The First place* in 'FDDC 2018 Financial Algorithm Challenge'(Co-organized by Financial Technology Professional Committee of the Asset Management Association of China, Tonglian Data, E Fund, China Asset Management, and Alibaba Cloud)
 
 
 <!-- Research Interests -->
