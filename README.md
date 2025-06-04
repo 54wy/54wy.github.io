@@ -2,36 +2,15 @@
 <div align="center">
 
   <!-- markdownlint-disable-next-line -->
-  # Github Pages on My Profile 
+  # Github Pages on My Profile  
 
-  Theme Supported by [**Chripy**][chripy]
+  [![Snapshot](https://raw.githubusercontent.com/54wy/54wy.github.io/refs/heads/main/images/snapshot.jpg)][demo]  
 
-  [**Explore More** →][demo]
+  [**Explore More →** ][demo] 
 
-  [![Snapshot](https://raw.githubusercontent.com/54wy/54wy.github.io/refs/heads/main/images/snapshot.jpg)][demo]
-
+  Powered by [**Github Pages**][github-page] &nbsp; | &nbsp; Theme by [**Chripy**][chripy] 
 </div>
-
-## Credits
-
-### Contributors
-
-Thanks to [all the contributors][contributors] involved in the development of the project!
-
-[![all-contributors](https://contrib.rocks/image?repo=cotes2020/jekyll-theme-chirpy&columns=16)][contributors]
-<sub> — Made with [contrib.rocks](https://contrib.rocks)</sub>
-
-### Third-Party Assets
-
-This project is built on the [Jekyll][jekyllrb] ecosystem and some [great libraries][lib], and is developed using [VS Code][vscode] as well as tools provided by [JetBrains][jetbrains] under a non-commercial open-source software license.
-
-The avatar and favicon for the project's website are from [ClipartMAX][clipartmax].
-
-## License
-
-This project is published under [MIT License][license].
-
 
 [chripy]: https://github.com/cotes2020/chirpy-starter
 [demo]: https://54wy.github.io
-
+[github-page]:https://pages.github.com/
