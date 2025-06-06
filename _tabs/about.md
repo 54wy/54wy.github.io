@@ -43,7 +43,7 @@ Also known as EN: Cloudless, CN: 吴 云 (Wu Yun).
 ***
 - **Yun Wu**, Liangshun Wu, Hengjin Cai<sup>*</sup>. A Trusted Paradigm of Data Management for Blockchain-Enabled Internet of Vehicles in Smart Cities[J]. ACM Transactions on Sensor Networks,2022.
 - **Yun Wu**, Liangshun Wu, Hengjin Cai<sup>*</sup>. Reinforced Practical Byzantine Fault Tolerance Consensus Protocol for Cyber Physical Systems[J]. Computer Communications, 2023,203:238-247
-- **Yun Wu**, Liangshun Wu, Hengjin Cai<sup>*</sup>. A deep learning approach to secure vehicle to road side unit communications in intelligent transportation system[J]. Computers and Electrical Engineering,2023,105:108542. 
+- **Yun Wu**, Liangshun Wu, Hengjin Cai<sup>*</sup>. A Deep Learning Approach to Secure Vehicle to Road Side Unit Communications in Intelligent Transportation System[J]. Computers and Electrical Engineering,2023,105:108542. 
 - **Yun Wu**, Liangshun Wu, Hengjin Cai<sup>*</sup>. Cloud-Edge Data Encryption in the Internet of Vehicles Using Zeckendorf Representation[J]. Journal of Cloud Computing-Advances Systems and Applications, 2023,12:39. 
 
 
