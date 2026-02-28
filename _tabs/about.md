@@ -18,7 +18,7 @@ Also known as EN: Cloudless, CN: 吴 云 (Wu Yun).
 ***
 - 2008.09 – 2012.06: Institute of Advanced Study, Wuhan University, B.A. in Ecomomics and Mathmatics 
 - 2012.09 – 2015.06: Institute of Advanced Study, Wuhan University, M.A. in Finance
-- 2016.09 - 2023.08: School of Computer Science, Wuhan Univertisy, D.Eng in Software Engineering
+- 2016.09 – 2023.08: School of Computer Science, Wuhan Univertisy, D.Eng in Software Engineering
 
 
 <!-- Competition -->
@@ -45,6 +45,13 @@ Also known as EN: Cloudless, CN: 吴 云 (Wu Yun).
 - **Yun Wu**, Liangshun Wu, Hengjin Cai<sup>*</sup>. Reinforced Practical Byzantine Fault Tolerance Consensus Protocol for Cyber Physical Systems[J]. Computer Communications, 2023,203:238-247
 - **Yun Wu**, Liangshun Wu, Hengjin Cai<sup>*</sup>. A Deep Learning Approach to Secure Vehicle to Road Side Unit Communications in Intelligent Transportation System[J]. Computers and Electrical Engineering,2023,105:108542. 
 - **Yun Wu**, Liangshun Wu, Hengjin Cai<sup>*</sup>. Cloud-Edge Data Encryption in the Internet of Vehicles Using Zeckendorf Representation[J]. Journal of Cloud Computing-Advances Systems and Applications, 2023,12:39. 
+
+
+<!-- Teaching -->
+## 🧑‍🏫 Teaching
+***
+- 2026.03 – 2026.06: **DAT1331-01** *Quantitative Investment Strategies and Techniques* for undergraduate students
+
 
 
 <!-- Hobby -->
