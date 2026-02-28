@@ -1,5 +1,5 @@
 ---
-title: Large Language Models on Finance
+title: Quantitative Investment Strategies and Techniques
 date: 2026-02-08 23:08:00 +0800 #Hangzhou
 categories: [Course, Quant]
 tags: [Teaching, Quant, AI, Fitech, Finance, ZUFE, YYXY, YYZC]
